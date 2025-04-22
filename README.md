@@ -44,7 +44,7 @@ python app.py
 
 ---
 
-##👩‍💻 Sobre Mim
+## 👩‍💻 Sobre Mim
 Sou formado em Química pela UFRJ/Macaé e atualmente curso Tecnologia de Sistemas de Computação na UFF . Estou em transição para a área de tecnologia e este projeto é parte da minha formação prática.
 
 📫 Contato:
